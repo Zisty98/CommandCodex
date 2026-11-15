@@ -1,6 +1,6 @@
 # Command Codex
 
-A Dalamud plugin for FFXIV by Vipps: the Command Panel, evolved.
+A Dalamud plugin for FFXIV by Zisty: the Command Panel, evolved.
 
 ## Install
 In game, open `/xlsettings` → **Experimental** → **Custom Plugin Repositories** and add:
