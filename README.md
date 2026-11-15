@@ -1,2 +1,12 @@
-# CommandCodex
-A lil private thing
+# Command Codex
+
+A Dalamud plugin for FFXIV by Vipps: the Command Panel, evolved.
+
+## Install
+In game, open `/xlsettings` → **Experimental** → **Custom Plugin Repositories** and add:
+
+```
+https://raw.githubusercontent.com/zisty98/CommandCodex/main/repo.json
+```
+
+Tick it, save, then install **Command Codex** from `/xlplugins`.
