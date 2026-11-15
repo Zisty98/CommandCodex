@@ -3,7 +3,7 @@
     "Author": "Zisty",
     "Name": "Command Codex",
     "InternalName": "CommandCodex",
-    "AssemblyVersion": "0.11.1.0",
+    "AssemblyVersion": "0.11.2.0",
     "Punchline": "The Command Panel, evolved.",
     "Description": "A game-styled command panel with unlimited drawers and slots, a macro library with no 15-line limit, and a Codex window to find and drag in macros, emotes, plugin and system commands.\n\nEmote wheels you set up by drag and drop, keybinds for macros, drawers and wheels, drawers that open by themselves for a job or instance, toggle and cycle slots, and backups you can share as text.\n\n/codex toggles the panel. /codex 3 or /codex raid opens a drawer. /codex wheel opens a wheel. /codex settings opens the Codex.",
     "ApplicableVersion": "any",
@@ -19,7 +19,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Zisty98/CommandCodex/main/plugins/CommandCodex/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Zisty98/CommandCodex/main/plugins/CommandCodex/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Zisty98/CommandCodex/main/plugins/CommandCodex/latest.zip",
-    "LastUpdate": 1794732990,
+    "LastUpdate": 1794736629,
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0
