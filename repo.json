@@ -7,7 +7,7 @@
     "Punchline": "The Command Panel, evolved.",
     "Description": "A game-styled command panel with unlimited drawers and slots, a macro library with no 15-line limit, and a Codex window to find and drag in macros, emotes, plugin and system commands.\n\n/codex toggles the panel. /codex 3 or /codex raid opens a drawer. /codex settings opens the Codex.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/zisty98/CommandCodex",
+    "RepoUrl": "https://github.com/Zisty98/CommandCodex",
     "Tags": [
       "macro",
       "command panel",
@@ -15,10 +15,10 @@
       "ui"
     ],
     "DalamudApiLevel": 15,
-    "IconUrl": "https://raw.githubusercontent.com/zisty98/CommandCodex/main/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/zisty98/CommandCodex/releases/download/v0.8.5.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/zisty98/CommandCodex/releases/download/v0.8.5.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/zisty98/CommandCodex/releases/download/v0.8.5.0/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Zisty98/CommandCodex/main/images/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Zisty98/CommandCodex/main/plugins/CommandCodex/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Zisty98/CommandCodex/main/plugins/CommandCodex/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Zisty98/CommandCodex/main/plugins/CommandCodex/latest.zip",
     "LastUpdate": 1794724821,
     "IsHide": false,
     "IsTestingExclusive": false,

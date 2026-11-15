@@ -6,7 +6,7 @@ A Dalamud plugin for FFXIV by Vipps: the Command Panel, evolved.
 In game, open `/xlsettings` → **Experimental** → **Custom Plugin Repositories** and add:
 
 ```
-https://raw.githubusercontent.com/zisty98/CommandCodex/main/repo.json
+https://raw.githubusercontent.com/Zisty98/CommandCodex/main/repo.json
 ```
 
 Tick it, save, then install **Command Codex** from `/xlplugins`.
