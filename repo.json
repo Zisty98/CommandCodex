@@ -3,7 +3,7 @@
     "Author": "Zisty",
     "Name": "Command Codex",
     "InternalName": "CommandCodex",
-    "AssemblyVersion": "0.13.0.0",
+    "AssemblyVersion": "0.13.1.0",
     "Punchline": "The Command Panel, evolved.",
     "Description": "Your macros, emotes and commands as buttons.\n\nDrawers, emote wheels and a Quick Bar.\nSet up by dragging from the Codex library.",
     "ApplicableVersion": "any",
@@ -19,7 +19,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Zisty98/CommandCodex/main/plugins/CommandCodex/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Zisty98/CommandCodex/main/plugins/CommandCodex/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Zisty98/CommandCodex/main/plugins/CommandCodex/latest.zip",
-    "LastUpdate": 1794739429,
+    "LastUpdate": 1794740122,
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0
