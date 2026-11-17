@@ -23,5 +23,32 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0
+  },
+  {
+    "Author": "Zisty",
+    "Name": "Alt Sync",
+    "InternalName": "AltSync",
+    "Punchline": "Copy character settings between your alts.",
+    "Description": "Pick a source character, tick what to copy (HUD, hotbars, keybinds, macros and more) and pick a target. Backs up the target first, with undo.",
+    "Tags": [
+      "settings",
+      "alts",
+      "hud",
+      "hotbar",
+      "keybind",
+      "utility"
+    ],
+    "RepoUrl": "https://github.com/Zisty98/CommandCodex",
+    "IconUrl": "https://raw.githubusercontent.com/Zisty98/CommandCodex/main/images/altsync.png",
+    "AssemblyVersion": "0.1.0.0",
+    "DalamudApiLevel": 15,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Zisty98/CommandCodex/main/plugins/AltSync/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Zisty98/CommandCodex/main/plugins/AltSync/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Zisty98/CommandCodex/main/plugins/AltSync/latest.zip",
+    "LastUpdate": 1794917190,
+    "ApplicableVersion": "any",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0
   }
 ]
